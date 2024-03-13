@@ -1,0 +1,13 @@
+{
+	"hotkeytasks": {
+	"Z":"E:\programfiles\Totalcommander10.52\TOTALCMD64.EXE",
+	},
+	
+	"hotkeyhidetasks": {
+	"A":"Tank.exe",
+	},
+	"hotkeykilltasks": {
+	"K":"Tank.exe",
+	}
+}
+
